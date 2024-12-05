@@ -1,7 +1,7 @@
 {
-    "name": "my-mod",
-    "ccmodHumanName": "My Mod",
+    "name": "confront-lea",
+    "ccmodHumanName": "Confronting Myself (wip title)",
     "version": "1.0.0",
 	"plugin": "plugin.js",
-	"description": "my first mod"
+	"description": "adds a room where u gotta decrypt dialogue text to reveal a message. "
 }
