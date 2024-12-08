@@ -1,7 +1,7 @@
 
-# Confronting Yourself (WIP)
+Corrupt Crypt (WIP)
 
-A (hopefully) simple CrossCode mod that adds a room (codenamed Corrupt Crypt, or CC for short), in which the dialogue of NPCs are encrypted and you gotta get the key unique to each person's text to form a sentence.
+A (hopefully) simple CrossCode mod that adds a room, in which the dialogue of NPCs are encrypted and you gotta get the key unique to each person's text to form a sentence.
 
 Made by a Cyber Security student who's tryna make a cool project in a game he loves, using the cryptography shi he's learnt so far. 😁👍
 
@@ -10,13 +10,12 @@ Made by a Cyber Security student who's tryna make a cool project in a game he lo
 
 - Decorate the room
 
-    - try using vermillion wasteland tileset to make it seem messed up n shi
+    - try using ice element dungeon tileset to make it seem messed up n shi idk
 
 - add npcs - dialogue made up of encrypted text
 
     - each npcs dialogue is encrypted using different words as keys
     - those words form a sentence, maybe a riddle of some kind
-    - npcs could be ppl leas spoken to, on sum 'set in her mind' type shi
 
 - edit the Bakii-kum map to make the teleporter to CC look nicer
 
