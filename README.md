@@ -1,5 +1,5 @@
 
-Corrupt Crypt (WIP)
+# Corrupt Crypt (WIP)
 
 A (hopefully) simple CrossCode mod that adds a room, in which the dialogue of NPCs are encrypted and you gotta get the key unique to each person's text to form a sentence.
 
