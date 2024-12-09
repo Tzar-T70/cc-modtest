@@ -1,7 +1,7 @@
 {
-    "name": "confront-lea",
-    "ccmodHumanName": "Confronting Myself (wip title)",
+    "name": "corrupt-crypt",
+    "ccmodHumanName": "Corrupt Crypt (wip title)",
     "version": "1.0.0",
 	"plugin": "plugin.js",
-	"description": "adds a room where u gotta decrypt dialogue text to reveal a message. "
+	"description": "adds a room where u gotta decrypt dialogue text to reveal a message, in a nutshell."
 }
