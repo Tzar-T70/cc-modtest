@@ -1,0 +1,15 @@
+{
+	"id": "corrupt-crypt",
+	"version": "1.0.0",
+	"title": {
+		"en_US": "\\c[1]Corrupt Crypt\\c[0] (wip title) \\i[lore-memories]"
+	},
+	"description": {
+		"en_US": "adds a room where u gotta decrypt dialogue text to reveal a message, in a nutshell. "
+	},
+	"icons": {
+	},
+	"main": "plugin.js",
+	"dependencies": {
+	}
+}
