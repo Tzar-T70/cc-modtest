@@ -9,7 +9,5 @@
 	},
 	"icons": {
 	},
-	"main": "plugin.js",
-	"dependencies": {
-	}
+	"main": "plugin.js"
 }
